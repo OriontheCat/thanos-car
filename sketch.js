@@ -61,7 +61,7 @@ var nextEnvironment = [{
   //true, in first cell, false, in second cell
   car: false,
 }, {
-  thanos: [true, false],
+  thanos: [false,false],
   //true, in first cell, false, in second cell
   car: true,
 }, {
